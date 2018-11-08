@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mylodic">
+    <output-path>$PROJECT_DIR$/out/artifacts/mylodic</output-path>
+    <root id="archive" name="mylodic.jar">
+      <element id="module-output" name="mylodic" />
+    </root>
+  </artifact>
+</component>
