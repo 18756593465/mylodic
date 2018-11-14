@@ -182,6 +182,9 @@ public class SerialImpl implements Serial {
     }
 
 
+	public void push(){
+	
+	}
 
 
 
